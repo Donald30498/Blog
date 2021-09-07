@@ -3,7 +3,7 @@
 
 baseURL = "https://donald30498.github.io/Blog/"
 title = "donald30498"
-languageCode = "UTF-8"
+languageCode = "zh-TW"
 hasCJKLanguage = true
 # 版權資訊（支援 Markdown）
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
@@ -12,7 +12,7 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 theme = "meme"
 
 # `hugo new` 新建文章自動開啟的文字編輯器
-newContentEditor = "hugo create article"
+newContentEditor = ""
 
 # i18n
 defaultContentLanguage = "zh-tw"
@@ -100,7 +100,7 @@ uglyURLs = false
     # 郵箱
     email = "donald30498@outlook.com"
     # 座右銘或簡介
-    motto = "犯罪的前提是被發現"
+    motto = "Hello World !"
     # 頭像
     avatar = "/icons/apple-touch-icon.png"
     # 網站（預設值：baseURL）
@@ -309,11 +309,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通頁面
 
-    homeLayout = "poetry"
+    homeLayout = "posts"
 
     ## 「詩意人生」
     # 詩句，支援 Markdown
-    homePoetry = [I will be back !!]
+    homePoetry = []
     # 底部連結的內間距，單位：em
     homeLinksPadding = 1
 
