@@ -1,4 +1,4 @@
 baseURL = 'https://donald30498.github.io/DD/'
 languageCode = 'UTF-8'
 title = 'Donald30498'
-theme = "ananke"
+theme = "beautifulhugo"
