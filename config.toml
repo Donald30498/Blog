@@ -1,8 +1,8 @@
 ##########################################
 # 站點配置
 
-baseURL = "https://donald30498.github.io/Blog/"
-title = "donald30498"
+baseURL = "https://example.com/"
+title = "Hugo 主題 MemE"
 languageCode = "zh-TW"
 hasCJKLanguage = true
 # 版權資訊（支援 Markdown）
@@ -96,17 +96,17 @@ uglyURLs = false
 # 作者資訊
 [author]
     # 名字
-    name = "Donald Wu"
+    name = "reuixiy"
     # 郵箱
-    email = "donald30498@outlook.com"
+    email = "reuixiy@gmail.com"
     # 座右銘或簡介
-    motto = "Hello World !"
+    motto = "Viva La Vida"
     # 頭像
     avatar = "/icons/apple-touch-icon.png"
     # 網站（預設值：baseURL）
-    website = "https://donald30498.github.io/Blog/"
+    website = "https://io-oi.me/"
     # 推特
-    twitter = "loseritersenior"
+    twitter = "reuixiy"
 
 # 相關文章
 [related]
@@ -343,11 +343,11 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站點的建立時間
-    siteCreatedTime = "2021-09-07T16:48:45+00:00"
+    siteCreatedTime = "1969-07-20T20:17:43+00:00"
     # 注意：請保持此格式，更改數字
 
     # 站點的推特帳號
-    siteTwitter = "loseritersenior"
+    siteTwitter = "reuixiy"
     # 說明：用於 Twitter Cards
 
 
@@ -392,7 +392,7 @@ uglyURLs = false
     displayPostsCount = true
 
     # 設定一個非負數來限制每一分類下展示的文章數
-    limitPostsLimit = 3
+    limitPostsLimit = -1
 
 
     ######################################
