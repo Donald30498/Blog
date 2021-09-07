@@ -1,7 +1,7 @@
 ---
 title: "iOS Club"
 date: 2021-09-07T10:20:48+08:00
-draft: true
+draft: false
 ---
 As everyone's expection , two of iOS Club's team just won medals in the contest.
 ## iOS Club
