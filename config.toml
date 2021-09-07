@@ -1,4 +1,4 @@
-baseURL = 'https://donald30498.github.io/DD/'
+baseURL = 'https://donald30498.github.io/Blog/'
 languageCode = 'UTF-8'
 title = 'Donald30498'
 theme = "hugo-theme-meme"
