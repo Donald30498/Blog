@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Donald30498</title><link>https://donald30498.github.io/DD/categories/</link><description>Recent content in Categories on Donald30498</description><generator>Hugo -- gohugo.io</generator><language>UTF-8</language><managingEditor>donald30498@outlook.com (Donald Wu)</managingEditor><webMaster>donald30498@outlook.com (Donald Wu)</webMaster><atom:link href="https://donald30498.github.io/DD/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Donald30498</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Donald30498</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
