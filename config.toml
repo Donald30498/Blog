@@ -96,17 +96,17 @@ uglyURLs = false
 # 作者資訊
 [author]
     # 名字
-    name = "reuixiy"
+    name = "Donald Wu"
     # 郵箱
-    email = "reuixiy@gmail.com"
+    email = "donald30498@outlook.com"
     # 座右銘或簡介
-    motto = "Viva La Vida"
+    motto = "犯罪的前提是被發現"
     # 頭像
     avatar = "/icons/apple-touch-icon.png"
     # 網站（預設值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://donald30498.github.io/Blog/"
     # 推特
-    twitter = "reuixiy"
+    twitter = "loseritersenior"
 
 # 相關文章
 [related]
@@ -243,7 +243,7 @@ uglyURLs = false
     enableHeader = true
 
     # 是否自動隱藏
-    enableHeaderAutoHide = false
+    enableHeaderAutoHide = true
     # 說明：僅對彈性佈局的頂欄有效
 
     # 是否在首頁顯示
@@ -309,11 +309,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通頁面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「詩意人生」
     # 詩句，支援 Markdown
-    homePoetry = []
+    homePoetry = [I will be back !!]
     # 底部連結的內間距，單位：em
     homeLinksPadding = 1
 
@@ -343,11 +343,11 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站點的建立時間
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2021-09-07T16:48:45+00:00"
     # 注意：請保持此格式，更改數字
 
     # 站點的推特帳號
-    siteTwitter = "reuixiy"
+    siteTwitter = "loseritersenior"
     # 說明：用於 Twitter Cards
 
 
@@ -392,7 +392,7 @@ uglyURLs = false
     displayPostsCount = true
 
     # 設定一個非負數來限制每一分類下展示的文章數
-    limitPostsLimit = -1
+    limitPostsLimit = 3
 
 
     ######################################
