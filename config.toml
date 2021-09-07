@@ -9,7 +9,7 @@ hasCJKLanguage = true
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
 # 主題選擇
-theme = "hugo-theme-meme"
+theme = "meme"
 
 # `hugo new` 新建文章自動開啟的文字編輯器
 newContentEditor = "hugo create article"
