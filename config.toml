@@ -3,8 +3,13 @@ languageCode = 'UTF-8'
 title = 'Donald30498'
 theme = "beautifulhugo"
 
-[[social_icons]]
-id = "email"
-url = "mailto:donald30498@outlook.com"
-title = "Email me"
-icon = "fas fa-envelope"
+[Author]
+  name = "Donald Wu"
+  website = "https://donald30498.github.io/DD/"
+  email = "donald30498@outlook.com"
+  facebook = "https://www.facebook.com/profile.php?id=100015124727237"
+  github = "https://github.com/Donald30498"
+  twitter = "https://twitter.com/loseritersenior"
+  stackoverflow = "https://stackoverflow.com/users/15233288/shalanes"
+  instagram = "https://www.instagram.com/rm910805/"
+  youtube = "https://www.youtube.com/channel/UCbExIQMqwA5V4v7rguUM8gA" # or channel/channelname
