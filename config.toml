@@ -1,18 +1,18 @@
 ##########################################
 # 站點配置
 
-baseURL = "https://example.com/"
-title = "Hugo 主題 MemE"
-languageCode = "zh-TW"
+baseURL = "https://donald30498.github.io/Blog/"
+title = "donald30498"
+languageCode = "UTF-8"
 hasCJKLanguage = true
 # 版權資訊（支援 Markdown）
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
 # 主題選擇
-theme = "meme"
+theme = "hugo-theme-meme"
 
 # `hugo new` 新建文章自動開啟的文字編輯器
-newContentEditor = ""
+newContentEditor = "hugo create article"
 
 # i18n
 defaultContentLanguage = "zh-tw"
