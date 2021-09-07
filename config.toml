@@ -5,8 +5,8 @@ theme = "beautifulhugo"
 
 [Author]
   name = "Donald Wu"
-  website = "https://donald30498.github.io/DD/"
+  website = "https://donald30498.github.io/Blog/"
   email = "donald30498@outlook.com"
   github = "Donald30498"
   twitter = "loseritersenior"
-  stackoverflow = "https://stackoverflow.com/users/15233288/shalanes"
+  stackoverflow = "users/15233288/shalanes"
